@@ -9,7 +9,7 @@
         <?php
         echo "<div class='page-header'>
                 <h1>CIS 355 as18 Covid-19 api</h1>
-                <a href='https://github.com/ivykowalski/api'>Github code</a>
+                <a href='https://github.com/ivykowalski/api'>Github link</a>
             </div>";
         ?>
                          
@@ -47,7 +47,7 @@ function main () {
     print_r($arr1);
     
     // Create the table to hold top ten 
-	echo "<div><h3><b>10 Countries with highest covid-19 deaths</b></h3>";
+	echo "<div><h3><b>Top 10 Countries with highest covid-19 deaths</b></h3>";
 	echo "<table class='table'>";
         echo "<tr>";
             // Create the two column headers
