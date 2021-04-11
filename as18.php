@@ -9,7 +9,7 @@
         <?php
         echo "<div class='page-header'>
                 <h1>CIS 355 as18 Covid-19 api</h1>
-                <a href='https://github.com/rtaub/api'>Github code</a>
+                <a href='https://github.com/ivykowalski/api'>Github code</a>
             </div>";
         ?>
                          
